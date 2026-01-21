@@ -26,7 +26,7 @@ ___
 
 Data is powerful, but only when shared — let’s build something together.
 
-Reach Me Directly
+Reach Me Directly:
 
 📧 Email: kolatemitopedeborah@gmail.com
 
@@ -35,7 +35,7 @@ Reach Me Directly
 [LINKEDIN PROFILE](https://www.linkedin.com/in/deborah-kola-98a6472b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkU2MzboAT%2BGzziV0vMGCww%3D%3D)
 
 
-Let’s Collaborate On
+Let’s Collaborate On:
 - 📊 Business & data analysis projects
 - 🔍 Analytics Engineering projects
 - ⚙️ AI automation workflows
