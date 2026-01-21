@@ -32,6 +32,8 @@ Reach Me Directly
 
 📱 Phone/WhatsApp: +2348147041396
 
+[LINKEDIN PROFILE](https://www.linkedin.com/in/deborah-kola-98a6472b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkU2MzboAT%2BGzziV0vMGCww%3D%3D)
+
 
 Let’s Collaborate On
 - 📊 Business & data analysis projects
