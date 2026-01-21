@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi I'm Deborah.
+I help businesses turn data into direction.
+___
+
+## ABOUT ME.
+
+I’m a Data Analyst with a strong foundation in Excel, SQL, and Power BI, and a growing focus on business and project-oriented analytics. My journey into data began after studying Biochemistry, where I developed an analytical mindset that now shapes how I solve data problems.
+
+I specialize in:
+- 📊 Cleaning, analyzing, and visualizing data
+- 📈 Uncovering insights that improve sales tracking, customer behaviour, and performance measurement
+  
+What sets me apart:
+- I ask the right questions, not just any questions
+- I understand business context, not just data
+- I communicate insights clearly, not just present charts
+- I translate numbers into decisions people can act on
+
+
 
 <!--
 **Deborah-Kola/Deborah-Kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
