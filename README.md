@@ -1,7 +1,7 @@
 ## Hi I'm Deborah.
 I help businesses turn data into direction.
 
-![image alt](https://avatars.githubusercontent.com/u/195830244?v=4)
+![image alt](https://github.com/Deborah-Kola/Deborah-Kola/blob/main/DEBORAH%20KOLA.jpeg?raw=true)
 ___
 
 ## ABOUT ME.
