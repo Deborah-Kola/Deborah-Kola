@@ -1,5 +1,7 @@
 ## Hi I'm Deborah.
 I help businesses turn data into direction.
+
+![image alt](https://avatars.githubusercontent.com/u/195830244?v=4)
 ___
 
 ## ABOUT ME.
