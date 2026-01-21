@@ -18,6 +18,29 @@ What sets me apart:
 - I communicate insights clearly, not just present charts
 - I translate numbers into decisions people can act on
 
+Beyond analytics, I actively build projects, pursue certifications, and contribute to a learning community helping aspiring analysts gain real-world skills.
+I’m particularly interested in roles where data, business strategy, and execution intersect — where insights don’t just live in dashboards, but drive action.
+___
+
+## CONNECT WITH ME.
+
+Data is powerful, but only when shared — let’s build something together.
+
+Reach Me Directly
+
+📧 Email: kolatemitopedeborah@gmail.com
+
+📱 Phone/WhatsApp: +2348147041396
+
+
+Let’s Collaborate On
+- 📊 Business & data analysis projects
+- 🔍 Analytics Engineering projects
+- ⚙️ AI automation workflows
+
+
+
+
 
 
 <!--
